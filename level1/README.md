@@ -1,4 +1,3 @@
-````markdown
 # Node.js Greeting Application
 
 A simple beginner-friendly Node.js application that demonstrates how to read command-line arguments using `process.argv`.
@@ -114,4 +113,3 @@ This project demonstrates:
 ## License
 
 This project is intended for learning and educational purposes.
-````
